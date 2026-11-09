@@ -71,6 +71,10 @@ authorities (DigiCert, Sectigo, FreeTSA). The pack format is described in
 רציף. הוא מוכיח שלמות ומקור של מה שנלכד, לא שהתוכן נכון. השאלה אם ראיה קבילה נתונה להחלטת בית
 המשפט. המפתח הציבורי וההוראות: <https://sentinelforensic.app/verify?lang=he>.
 
+## License
+
+Apache License 2.0, see [LICENSE](LICENSE). Copyright 2026 Moshe Wiesel (PageWitness).
+
 ## Security
 
 Report a vulnerability to security@sentinelforensic.app. Policy:
