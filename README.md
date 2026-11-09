@@ -75,6 +75,9 @@ authorities (DigiCert, Sectigo, FreeTSA). The pack format is described in
 
 Apache License 2.0, see [LICENSE](LICENSE). Copyright 2026 Moshe Wiesel (PageWitness).
 
+The license covers only the files in this repository. The PageWitness service and the rest of its
+source code are not open source and are not licensed by this repository.
+
 ## Security
 
 Report a vulnerability to security@sentinelforensic.app. Policy:
