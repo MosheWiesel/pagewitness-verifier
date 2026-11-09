@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""PageWitness Offline Verifier — Court-Proof Case Pack Verification.
+"""PageWitness Offline Verifier — Case Pack integrity and provenance check.
 
 Single-command offline verification of Case Pack exports.
 
@@ -2495,7 +2495,7 @@ def verify_package(zip_path: str, args, trusted_keys: set[str]) -> VerificationR
 
 def main():
     parser = argparse.ArgumentParser(
-        description="PageWitness Offline Verifier — Court-Proof Case Pack Verification",
+        description="PageWitness Offline Verifier — Case Pack integrity and provenance check",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog=__doc__
     )
